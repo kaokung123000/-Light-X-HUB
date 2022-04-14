@@ -1,1 +1,1 @@
-# -Light-X-HUB
+LightHUB
